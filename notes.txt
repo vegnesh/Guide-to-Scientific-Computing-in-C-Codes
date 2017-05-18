@@ -1,0 +1,20 @@
+1) Default arguments can only be specified once. 
+Typically done in function prototype - declaration to allow for users to see stuff in documentation.
+
+2) Every New Statement should have  corresponding delete statement.
+
+3) Naming conventions for pointers - start name with p_x;
+
+4) If you want to access global variable , use ::a for scope resolution
+
+
+5)  Function Overloading can occur based on number and type of arguements but not based on the return data;
+
+6) Function Pointers. Easiest Example - For use in Newton Rhapson. Can send in the function and its jacobian. 
+
+7) Function pointers must be declared such that they take in the same set of arguments as the function they point to and return the same type of data
+
+8) Document Code Madar
+
+9) Assert - Use assert statements when using pointers
+
