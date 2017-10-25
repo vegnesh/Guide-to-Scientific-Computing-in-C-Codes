@@ -18,3 +18,5 @@ Typically done in function prototype - declaration to allow for users to see stu
 
 9) Assert - Use assert statements when using pointers
 
+10) Const at end of class functon. That method doesnt change anything in the class
+
