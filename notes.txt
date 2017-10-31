@@ -20,3 +20,15 @@ Typically done in function prototype - declaration to allow for users to see stu
 
 10) Const at end of class functon. That method doesnt change anything in the class
 
+11) Copy constructor always send by reference, in addition, can send copy constructor as constant.
+
+12) Friend Functions must be declared in class definitions. However, they are not member functions of class. 
+Friend functions can access private member variables of class
+
+13)q) How does new <class> work with  custom default constructor
+
+14) q) When is copy constructor used? What is copy swap idiom? Algos/headers for copy constructor and operator = 
+
+15) Returing by reference: Can use the value on LHS as well as RHS
+
+16) Q) How exceptions work?

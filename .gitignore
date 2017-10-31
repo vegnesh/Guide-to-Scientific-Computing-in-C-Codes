@@ -1,2 +1,8 @@
 *.dat
 OpenMP/
+*.txt
+Code/
+*.zip
+CMake*
+*.a
+C6/CMakeFiles
